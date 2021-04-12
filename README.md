@@ -79,6 +79,8 @@ def python_root(request: MyWeb.Request) -> MyWeb.Response:
 
 ## 拦截器
 
+![拦截器](https://user-images.githubusercontent.com/40815364/114346458-17b3ef80-9b96-11eb-93f1-72269b6d0c5f.png)
+
 根据拦截点不同，分为：
 
 1. 请求时拦截
